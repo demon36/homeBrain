@@ -1,0 +1,1 @@
+This is a class that facilitates the communication between arduino board and ESP82666 through any GPIO pins
